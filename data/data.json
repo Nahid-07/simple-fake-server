@@ -1,0 +1,55 @@
+[
+    {
+        "id" : "1" ,
+        "name" : "Cox-Bazar",
+        "description" : "Choose From a Wide Range of Properties Which Booking.com Offers. Search Now! Book at Simon Hotel, Fort-de-France. No Reservation Costs. Great Rates. Recent guest reviews. 24/7 Customer Service. No booking fees. Great choice. Save money. Secret Deals.",
+        "roomCategories1" : {
+            "category": "a1",
+            "roomConfig" : "Light bright airy stylish apt & safe peaceful stay",
+            "roomDesc" : "4 guests   2 bedrooms   2 beds   2 baths,Wif Air conditioning Kitchen.Cancellation fexibility availiable",
+            "ratigns" : "4.9 (20)",
+            "price" : "$34/night"  ,
+            "img" : "https://media-cdn.tripadvisor.com/media/photo-s/0c/3e/3e/1f/twin-premium-room.jpg"
+        },
+        
+        "roomCategories3" : {
+            "category": "a1",
+            "roomConfig" : "Light bright airy stylish apt & safe peaceful stay",
+            "roomDesc" : "4 guests   2 bedrooms   2 beds   2 baths,Wif Air conditioning Kitchen.Cancellation fexibility availiable",
+            "ratigns" : "4.9 (20)",
+            "price" : "$34/night"  ,
+            "img" : "https://media-cdn.tripadvisor.com/media/photo-s/0c/3e/3e/1f/twin-premium-room.jpg"
+        }
+        
+    },
+    {
+        "id" : "2",
+        "name" : "Sreemongol",
+        "description" :"Choose From a Wide Range of Properties Which Booking.com Offers. Search Now! Book at Simon Hotel, Fort-de-France. No Reservation Costs. Great Rates. Recent guest reviews. 24/7 Customer Service. No booking fees. Great choice. Save money. Secret Deals.",
+        "roomCategories1" : {
+            "category": "a2",
+            "roomConfig" : "Light bright airy stylish apt & safe peaceful stay",
+            "roomDesc" : "4 guests   2 bedrooms   2 beds   2 baths,Wif Air conditioning Kitchen.Cancellation fexibility availiable",
+            "ratigns" : "4.9 (20)",
+            "price" : "$34/night"  ,
+            "img" : "https://media-cdn.tripadvisor.com/media/photo-s/0c/3e/3e/1f/twin-premium-room.jpg"
+        },
+        "roomCategories2" : {
+            "category": "a2",
+            "roomConfig" : "Light bright airy stylish apt & safe peaceful stay",
+            "roomDesc" : "4 guests   2 bedrooms   2 beds   2 baths,Wif Air conditioning Kitchen.Cancellation fexibility availiable",
+            "ratigns" : "4.9 (20)",
+            "price" : "$34/night"  ,
+            "img" : "https://media-cdn.tripadvisor.com/media/photo-s/0c/3e/3e/1f/twin-premium-room.jpg"
+        },
+        "roomCategories3" : {
+            "category": "a2",
+            "roomConfig" : "Light bright airy stylish apt & safe peaceful stay",
+            "roomDesc" : "4 guests   2 bedrooms   2 beds   2 baths,Wif Air conditioning Kitchen.Cancellation fexibility availiable",
+            "ratigns" : "4.9 (20)",
+            "price" : "$34/night"  ,
+            "img" : "https://media-cdn.tripadvisor.com/media/photo-s/0c/3e/3e/1f/twin-premium-room.jpg"
+        }
+
+    }
+]
